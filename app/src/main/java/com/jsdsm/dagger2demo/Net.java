@@ -12,6 +12,12 @@ public class Net {
     }
 
     public void getGoods(){
+		
+		
+		
+		
+		
+		
 
     }
 }
