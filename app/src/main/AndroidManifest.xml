@@ -15,6 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".InjectActivity">
+        </activity>
+        <activity android:name=".ProvidesActivity">
+        </activity>
+        <activity android:name=".NamedActivity">
+        </activity>
+        <activity android:name=".SingletonActivity">
+        </activity>
     </application>
 
 </manifest>
